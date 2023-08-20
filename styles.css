@@ -12,6 +12,10 @@
 body{
     background-color: black;
 }
+
+#image{
+    border-radius: 40px;
+}
 #myVideo {
     /* position: fixed; */
     /* right: 0; */
@@ -41,6 +45,8 @@ div.scroll-container {
     overflow: auto;
     white-space: nowrap;
     padding: 10px;
+    background-color: white;
+    border-radius: 30px;
 }
 
 .justify{
