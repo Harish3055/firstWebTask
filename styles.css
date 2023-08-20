@@ -21,10 +21,17 @@ body{
   font-family:Papyrus, fantasy;
   bottom: 0;
   background: white;
-  width: 60%;
+  width: 100%;
   padding: 20px;
   font-size:20px;
 
+}
+
+.review{
+  color:white;
+  font-family:Papyrus, fantasy;
+  font-size:50px;
+  text-align: center;
 }
 
 img{
@@ -181,3 +188,9 @@ div.scroll-container {
       width: 100%;
     }
   }
+
+.text-center {
+  text-align: center;
+  color:white;
+  background-color:rgb(2, 2, 68);
+}
