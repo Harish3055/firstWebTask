@@ -29,15 +29,14 @@ body::-webkit-scrollbar-thumb {
 }
 
 .btn {
-  background-color: black;
+  background:transparent;
   border: none;
   color: white;
   padding: 15px 32px;
   font-family:Papyrus, fantasy;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .btn-con {
@@ -64,7 +63,7 @@ img{
 }
 
                                   /*css for form*/
- .justify{
+.justify{
     align-content: center;
 }
   
@@ -104,6 +103,7 @@ img{
   position: absolute;
   width: 90%;
   height: 100%;
+  font-family:Papyrus, fantasy;
   box-shadow: 10px 10px 0 grey;
   color:Black;
 }
